@@ -1,6 +1,8 @@
 # COMP9101-Algorithm-Note
 For COMP9101 Algorithm realisation in Python or C
-# Week 1: Introduction: Gale - Shapley algorithm
+# Lecture
+## Week 1: Introduction
+### Gale - Shapley algorithm
 Assume that you are running a dating agency and have n men and n women as customers;
 They all attend a dinner party; after the party:
 every man gives you a list with his ranking of all women present,
