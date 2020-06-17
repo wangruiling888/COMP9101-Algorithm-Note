@@ -19,6 +19,7 @@ void find_number(int * nums, int count){
 			}
 		}
 	}
+	DestroyTree(t);
 	return ;
 	
 }
